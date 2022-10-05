@@ -1,5 +1,5 @@
 # Conectividad
-Breve análisis sobre el acceso y uso de la tecnología en Argentina, basado en datos abiertos de la Encuesta Permanente de Hogares del INDEC. 
+_Breve análisis sobre el acceso y uso de la tecnología en Argentina, basado en datos abiertos de la Encuesta Permanente de Hogares del INDEC._ 
 
 ## 🏠 Resultados con respecto a los hogares
 ![TieneInt-Hogar](https://user-images.githubusercontent.com/113639622/193968825-de6be6b1-5b33-47a4-9554-8c2b696f0ce3.jpg)
